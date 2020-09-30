@@ -9,11 +9,15 @@ Build
 Run this command in console:
 
 ```
-npm install
+npm install 
 ```
 
 All dependencies will be downloaded by `npm` to `node_modules` folder.
 
+```
+npm install nodemon -g
+```
+-g is a flag which install npm module globally in the system.Nodemon helps to run the app automatically each time we save file.
 Run
 ---
 
